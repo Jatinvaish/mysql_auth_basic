@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Jatin@4471",
+    "database": "boiler_setup",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Jatin@4471",
+    "database": "boiler_setup",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Jatin@4471",
+    "database": "boiler_setup",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
